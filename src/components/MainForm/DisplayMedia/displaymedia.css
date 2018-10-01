@@ -1,0 +1,15 @@
+h4{
+   
+    text-align: center;
+    
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    }
+  .grid-item3 {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    background-color: #f3f3f3;
+    padding: 20px;
+    color: #666;
+  }
